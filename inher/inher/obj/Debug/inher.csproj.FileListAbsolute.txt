@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\inher\inher\bin\Debug\inher.exe.config
+C:\Users\user\source\repos\inher\inher\bin\Debug\inher.exe
+C:\Users\user\source\repos\inher\inher\bin\Debug\inher.pdb
+C:\Users\user\source\repos\inher\inher\obj\Debug\inher.csprojAssemblyReference.cache
+C:\Users\user\source\repos\inher\inher\obj\Debug\inher.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\inher\inher\obj\Debug\inher.exe
+C:\Users\user\source\repos\inher\inher\obj\Debug\inher.pdb
