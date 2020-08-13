@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\object Oriented\object Oriented\bin\Debug\object Oriented.exe.config
+C:\Users\user\source\repos\object Oriented\object Oriented\bin\Debug\object Oriented.exe
+C:\Users\user\source\repos\object Oriented\object Oriented\bin\Debug\object Oriented.pdb
+C:\Users\user\source\repos\object Oriented\object Oriented\obj\Debug\object Oriented.csprojAssemblyReference.cache
+C:\Users\user\source\repos\object Oriented\object Oriented\obj\Debug\object Oriented.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\object Oriented\object Oriented\obj\Debug\object Oriented.exe
+C:\Users\user\source\repos\object Oriented\object Oriented\obj\Debug\object Oriented.pdb
