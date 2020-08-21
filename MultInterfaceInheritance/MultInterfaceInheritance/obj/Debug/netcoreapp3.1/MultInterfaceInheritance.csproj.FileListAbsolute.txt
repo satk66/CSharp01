@@ -1,0 +1,12 @@
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\bin\Debug\netcoreapp3.1\MultInterfaceInheritance.exe
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\bin\Debug\netcoreapp3.1\MultInterfaceInheritance.deps.json
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\bin\Debug\netcoreapp3.1\MultInterfaceInheritance.runtimeconfig.json
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\bin\Debug\netcoreapp3.1\MultInterfaceInheritance.runtimeconfig.dev.json
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\bin\Debug\netcoreapp3.1\MultInterfaceInheritance.dll
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\bin\Debug\netcoreapp3.1\MultInterfaceInheritance.pdb
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\obj\Debug\netcoreapp3.1\MultInterfaceInheritance.AssemblyInfoInputs.cache
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\obj\Debug\netcoreapp3.1\MultInterfaceInheritance.AssemblyInfo.cs
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\obj\Debug\netcoreapp3.1\MultInterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\obj\Debug\netcoreapp3.1\MultInterfaceInheritance.dll
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\obj\Debug\netcoreapp3.1\MultInterfaceInheritance.pdb
+C:\Users\cook\source\repos\MultInterfaceInheritance\MultInterfaceInheritance\obj\Debug\netcoreapp3.1\MultInterfaceInheritance.genruntimeconfig.cache
