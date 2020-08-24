@@ -1,0 +1,12 @@
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\bin\Debug\netcoreapp3.1\AutoImplenebtedProperty.exe
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\bin\Debug\netcoreapp3.1\AutoImplenebtedProperty.deps.json
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\bin\Debug\netcoreapp3.1\AutoImplenebtedProperty.runtimeconfig.json
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\bin\Debug\netcoreapp3.1\AutoImplenebtedProperty.runtimeconfig.dev.json
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\bin\Debug\netcoreapp3.1\AutoImplenebtedProperty.dll
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\bin\Debug\netcoreapp3.1\AutoImplenebtedProperty.pdb
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\obj\Debug\netcoreapp3.1\AutoImplenebtedProperty.AssemblyInfoInputs.cache
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\obj\Debug\netcoreapp3.1\AutoImplenebtedProperty.AssemblyInfo.cs
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\obj\Debug\netcoreapp3.1\AutoImplenebtedProperty.csproj.CoreCompileInputs.cache
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\obj\Debug\netcoreapp3.1\AutoImplenebtedProperty.dll
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\obj\Debug\netcoreapp3.1\AutoImplenebtedProperty.pdb
+C:\Users\cook\source\repos\AutoImplenebtedProperty\AutoImplenebtedProperty\obj\Debug\netcoreapp3.1\AutoImplenebtedProperty.genruntimeconfig.cache
