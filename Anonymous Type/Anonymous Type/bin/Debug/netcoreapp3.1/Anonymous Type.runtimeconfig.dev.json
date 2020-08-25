@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cook\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cook\\.nuget\\packages"
+    ]
+  }
+}
