@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\FormSize\FormSize\bin\Debug\FormSize.exe.config
+C:\Users\user\source\repos\FormSize\FormSize\bin\Debug\FormSize.exe
+C:\Users\user\source\repos\FormSize\FormSize\bin\Debug\FormSize.pdb
+C:\Users\user\source\repos\FormSize\FormSize\obj\Debug\FormSize.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FormSize\FormSize\obj\Debug\FormSize.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FormSize\FormSize\obj\Debug\FormSize.exe
+C:\Users\user\source\repos\FormSize\FormSize\obj\Debug\FormSize.pdb
