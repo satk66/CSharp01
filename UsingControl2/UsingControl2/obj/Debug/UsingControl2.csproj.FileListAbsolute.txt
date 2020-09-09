@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\UsingControl2\UsingControl2\obj\Debug\UsingControl2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UsingControl2\UsingControl2\obj\Debug\UsingControl2.MainForm.resources
+C:\Users\user\source\repos\UsingControl2\UsingControl2\obj\Debug\UsingControl2.Properties.Resources.resources
+C:\Users\user\source\repos\UsingControl2\UsingControl2\obj\Debug\UsingControl2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\UsingControl2\UsingControl2\obj\Debug\UsingControl2.csproj.CoreCompileInputs.cache
